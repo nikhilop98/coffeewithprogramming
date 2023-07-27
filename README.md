@@ -5,3 +5,4 @@
 
 <img align = "left" width = "47%" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=coffeewithprogramming&layout=donut-vertical" />
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=coffeewithprogramming&layout=compact)
