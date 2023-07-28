@@ -1,7 +1,8 @@
-**`Coffeewithprogramming (Developer/Creator)`**
+
+**`(Developer/Creator)`**
 <br/>
 <br/>
-I'm frond-end developer and content creactor.
+"Hello, I'm Nikhil,a Front-end Developer specializing in React.js. I create engaging web applications with a focus on clean code and seamless user experiences. Let's build something incredible together!"
 <br/>
 
 <!-- Social badges section -->
